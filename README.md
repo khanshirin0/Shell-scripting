@@ -2,7 +2,7 @@
 
 This repository contains the following scripts:-
 
-1. <b Digital Watch Script b> <br>
+1. <b>Digital Watch Script </b> <br>
 This Bash script simulates a digital watch, displaying the current time and date in a user-friendly format. It's a simple yet functional script designed for Linux RHEL9 systems. Whether you're a beginner learning Bash scripting or an experienced Linux user, this script provides a hands-on way to understand time-related operations in a Unix-like environment.
 
 2. System Maintenance Automation Script <br>
