@@ -11,7 +11,7 @@ This Bash scripts is tailored to automate routine system maintenance tasks on Li
 3. <b>Automated Backup, Log Rotation, and Software Update Script </b> <br>
 Maintaining data integrity and system security is crucial. This Bash script automates three vital processes: backups, log rotation, and software updates. The backup process ensures your important data is regularly backed up to a specified location. Log rotation process manage log files, preventing them from consuming excessive disk space. Software update process automate the process of fetching and installing the latest system updates, keeping your Linux RHEL9 system up-to-date and secure.
 
-4  <b>Archive Older Files Script</b> <br>
+4. <b>Archive Older Files Script</b> <br>
 Managing disk space is essential for system efficiency. This Bash script is dedicated to archiving older files, organizing them into compressed archives for efficient storage. By specifying criteria such as file age or last access date, this script identifies and compresses older files, allowing users to retain important data while freeing up disk space. It's a valuable tool for users dealing with large amounts of data and looking to optimize their storage resources.
 
 5. <b>Colorful Digital Watch Script</b> <br>
